@@ -1,3 +1,2 @@
-<img src="https://cdn.saytheirnames.dev/assets/cover.png">
-
+# README like one of your french girls
 
